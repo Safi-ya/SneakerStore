@@ -1,0 +1,30 @@
+a{
+    position: fixed;
+    top:20px;
+    right: 20px;
+}
+body{
+    background-color: #324e38;
+}
+table{
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: azure;
+}
+th{
+    border: 1px solid#070707;
+    padding: 12px;
+    background-color: #b4b881c7;
+    color:#080808;
+}
+td{
+    border:0.5px solid #111111;
+    padding: 10px;
+    text-align: center;
+}
+h2 {
+    font-size: 80px;
+    color:#e6dede;
+    text-align: center;
+}
